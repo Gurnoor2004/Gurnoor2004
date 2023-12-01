@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gurnoor2004
 - 👀 I’m interested in coding and currently doing Bachelors in CSE.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m also a rapper.
 - 📫 How to reach me: @noor.kive is my instagram username.
 
 <!---
