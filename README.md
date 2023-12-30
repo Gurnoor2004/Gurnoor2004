@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gurnoor2004
-- 👀 I’m interested in coding and currently doing Bachelor in COMPUTER SCIENCE AND ENGINEERING.
+- 👀 I’m interested in coding and currently doing Bachelor in Computer Science And Engineering.
 - 🌱 I’m currently learning Python/JavaScript.
 - 📫 How to reach me: @noor.kive is my instagram username.
 
